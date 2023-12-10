@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Secure-mcpc
 - 👀 I’m interested in Minecraft
-- 📫 How to reach me ...secure.zhcn@outlook.com
+- 📫 How to reach me secure.zhcn@outlook.com
 
 <!---
 Secure-mcpc/Secure-mcpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
